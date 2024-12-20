@@ -373,7 +373,7 @@ if __name__ == '__main__':
     # instantiate selenium driver
     driver = Chrome()
 
-    years = [2023]
+    years = [2024]
 
     eoys = []
 
